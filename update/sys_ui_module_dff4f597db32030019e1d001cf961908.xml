@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Marketing Event">a9a23157db32030019e1d001cf9619f8</application>
+        <filter/>
+        <name>Equipment Requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_167729_marketing.equipment_request_use</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-08 05:57:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dff4f597db32030019e1d001cf961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment Requests</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_167729_marketing">b591f513db32030019e1d001cf961999</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">b591f513db32030019e1d001cf961999</sys_scope>
+        <sys_update_name>sys_ui_module_dff4f597db32030019e1d001cf961908</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-08 05:57:54</sys_updated_on>
+        <table>x_167729_marketing_equipment_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

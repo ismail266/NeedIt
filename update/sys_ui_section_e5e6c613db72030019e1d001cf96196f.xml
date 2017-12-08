@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Marketing Event" section_id="e5e6c613db72030019e1d001cf96196f" sys_domain="global" table="x_167729_marketing_marketing_event" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_exp</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-08 07:16:10</sys_created_on>
+            <sys_id>b1e6c613db72030019e1d001cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Marketing Event" display_value="Marketing Event" name="x_167729_marketing_marketing_event" sys_domain="global" view="Default view">e5e6c613db72030019e1d001cf96196f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-08 07:16:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-08 07:16:10</sys_created_on>
+            <sys_id>39e6c613db72030019e1d001cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Marketing Event" display_value="Marketing Event" name="x_167729_marketing_marketing_event" sys_domain="global" view="Default view">e5e6c613db72030019e1d001cf96196f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-08 07:16:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_reg</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-08 07:16:10</sys_created_on>
+            <sys_id>b9e6c613db72030019e1d001cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Marketing Event" display_value="Marketing Event" name="x_167729_marketing_marketing_event" sys_domain="global" view="Default view">e5e6c613db72030019e1d001cf96196f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-08 07:16:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Marketing Event</caption>
+            <header>false</header>
+            <name>x_167729_marketing_marketing_event</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-08 07:16:10</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5e6c613db72030019e1d001cf96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Marketing Event</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events Application" source="x_167729_marketing">b591f513db32030019e1d001cf961999</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">b591f513db32030019e1d001cf961999</sys_scope>
+            <sys_update_name>sys_ui_section_e5e6c613db72030019e1d001cf96196f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-08 07:16:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
